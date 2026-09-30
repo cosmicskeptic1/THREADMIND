@@ -1,0 +1,74 @@
+{
+    "tops": [
+        {
+            "id": "T01",
+            "name": "White Oversized T-Shirt",
+            "color": "white",
+            "style": "casual",
+            "season": ["summer", "spring"],
+            "formality": 1
+        },
+        {
+            "id": "T02",
+            "name": "Black Fitted Top",
+            "color": "black",
+            "style": "casual",
+            "season": ["summer", "spring", "autumn"],
+            "formality": 2
+        },
+        {
+            "id": "T03",
+            "name": "Blue Shirt",
+            "color": "blue",
+            "style": "smart-casual",
+            "season": ["spring", "autumn"],
+            "formality": 3
+        }
+    ],
+
+    "bottoms": [
+        {
+            "id": "B01",
+            "name": "Blue Jeans",
+            "color": "blue",
+            "style": "casual",
+            "season": ["all"],
+            "formality": 1
+        },
+        {
+            "id": "B02",
+            "name": "Black Jeans",
+            "color": "black",
+            "style": "casual",
+            "season": ["all"],
+            "formality": 2
+        },
+        {
+            "id": "B03",
+            "name": "Beige Trousers",
+            "color": "beige",
+            "style": "smart-casual",
+            "season": ["summer", "spring", "autumn"],
+            "formality": 3
+        }
+    ],
+
+    "shoes": [
+        {
+            "id": "S01",
+            "name": "White Sneakers",
+            "color": "white",
+            "style": "casual",
+            "season": ["all"],
+            "formality": 1
+        },
+        {
+            "id": "S02",
+            "name": "Black Sneakers",
+            "color": "black",
+            "style": "casual",
+            "season": ["all"],
+            "formality": 2
+        }
+    ]
+}
